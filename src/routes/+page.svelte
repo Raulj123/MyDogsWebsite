@@ -159,17 +159,20 @@
           </div>
         </div>
         <p class="py-2">
-            I moved in a year after Doby. I'm <span class="accent-color font-bold">small</span>, 
-            <span class="accent-color font-bold">fast</span>, and have 
-            <span class="accent-color font-bold">sharp</span> hearing.
-            I get easily <span class="accent-color font-bold">scared</span> but I'm protective.
-            When I sit, my front legs curve in, giving me a <span class="accent-color font-bold">penguin-like </span>look.
+          I moved in a year after Doby. I'm <span class="accent-color font-bold"
+            >small</span
+          >,
+          <span class="accent-color font-bold">fast</span>, and have
+          <span class="accent-color font-bold">sharp</span> hearing. I get
+          easily <span class="accent-color font-bold">scared</span> but I'm
+          protective. When I sit, my front legs curve in, giving me a
+          <span class="accent-color font-bold">penguin-like </span>look.
         </p>
       </div>
     </div>
   </div>
 </div>
-<div class="py-5">
+<div class="last-cont">
   <div class="collapse bg-base-200 mx-auto w-[90%]">
     <input type="checkbox" class="peer" />
     <div
@@ -223,6 +226,9 @@
     animation: floating2 3000ms ease-in-out infinite;
   }
 
+  .last-cont {
+    margin-bottom: 20px;
+  }
   @keyframes floating {
     0% {
       transform: translate(0, 0px);
@@ -253,6 +259,10 @@
 
     .hero_img {
       width: 135px;
+    }
+    .last-cont {
+      margin-top: 100px;
+      margin-bottom: 20px;
     }
   }
 </style>
