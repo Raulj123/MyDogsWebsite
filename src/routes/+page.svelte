@@ -127,7 +127,7 @@
             </div>
             <div class="me-2">
               <h3 class="text-2xl font-bold me-2">
-                <span class="accent-color">Unkonw</span>
+                <span class="accent-color">Unknown</span>
               </h3>
             </div>
           </div>
@@ -153,18 +153,17 @@
             </div>
             <div class="me-2">
               <h3 class="text-2xl font-bold me-2">
-                <span class="accent-color">her/she</span>
+                <span class="accent-color">she/her</span>
               </h3>
             </div>
           </div>
         </div>
         <p class="py-2">
-          I have three names: Ceasar, Doby, and Eren, but I mostly go by <span
-            class="accent-color font-bold">Doby</span
-          >. I was <span class="font-bold accent-color">adopted</span> by Raul's
-          mom and now live in California 🏄‍♂️, but I originally come from Mexico
-          🇲🇽. I have a sister who
-          <span class="font-bold accent-color">annoys me</span> named Maya.
+            I moved in a year after Doby. I'm <span class="accent-color font-bold">small</span>, 
+            <span class="accent-color font-bold">fast</span>, and have 
+            <span class="accent-color font-bold">sharp</span> hearing.
+            I get easily <span class="accent-color font-bold">scared</span> but I'm protective.
+            When I sit, my front legs curve in, giving me a <span class="accent-color font-bold">penguin-like </span>look.
         </p>
       </div>
     </div>
@@ -176,7 +175,7 @@
     <div
       class="collapse-title bg-primary text-primary-content peer-checked:bg-secondary peer-checked:text-secondary-content"
     >
-      Click me!
+      <h4 class="text-2xl font-bold text-center">Click me!!</h4>
     </div>
     <div
       class="collapse-content text-primary-content peer-checked:text-secondary-content mx-auto text-center"
@@ -210,8 +209,8 @@
   }
 
   .hero_img {
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
 
     object-fit: cover;
   }

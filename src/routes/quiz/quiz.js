@@ -1,7 +1,7 @@
 export const questions = [
     {
         question: "What is Doby's favorite name to be called?",
-        image: "./doby/...",
+        image: "./doby/q1.jpeg",
         anwsers: [
             {
                 a: "Doby", isCorrect: false
@@ -16,8 +16,8 @@ export const questions = [
         ],
     },
     {
-        question: "What is Eren's favorite human?",
-        image: "./doby/...",
+        question: "Who is Eren's favorite human?",
+        image: "./doby/q2.jpg",
         anwsers: [
             {
                 a: "Chris", isCorrect: false
@@ -33,7 +33,7 @@ export const questions = [
     },
     {
         question: "What is Eren's favorite place to sleep?",
-        image: "./doby/...",
+        image: "./doby/q3.jpg",
         anwsers: [
             {
                 a: "Raul's bed", isCorrect: true
@@ -49,7 +49,7 @@ export const questions = [
     },
     {
         question: "Where is Doby from?",
-        image: "./doby/...",
+        image: "./doby/q4.jpg",
         anwsers: [
             {
                 a: "USA", isCorrect: false

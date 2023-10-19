@@ -31,8 +31,8 @@
         />
         <ul class="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
           <!-- Sidebar content here -->
-          <li><a href="#doby">Doby 🐕</a></li>
-          <li><a href="#maya">Maya 🐕‍🦺</a></li>
+          <li><a href="/#doby">Doby 🐕</a></li>
+          <li><a href="/#maya">Maya 🐕‍🦺</a></li>
           <li><a href="/quiz">Take Doby's quiz!</a></li>
         </ul>
       </div>
