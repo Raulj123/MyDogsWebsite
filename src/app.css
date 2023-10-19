@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --font-family: "Poppins", sans-serif;
+    --primary-color: hsl(var(--p));
+    --secondary-color: hsl(var(--s));
+    --accent-color: hsl(var(--a));
+    --base-color: hsl(var(--b1));
+    --base-color-3: hsl(var(--b2));
+    --base-color-3: hsl(var(--b3));
+  }
+  
+  /* Apply the custom font to all title elements */
+  h1, h2, h3, h4, h5, h6, p, a {
+    font-family: var(--font-family);
+  }
+
+  .primary-color {
+    color: var(--primary-color);
+  }
+  
+  .secondary-color {
+    color: var(--secondary-color);
+  }
+
+  .accent-color {
+    color: var(--accent-color);
+  }
+.base-color {
+    background-color: var(--base-color);
+}
+.base-color-2 {
+    background-color: var(--base-color-2);
+}
+.base-color-3 {
+    background-color: var(--base-color-3);
+}
+
+
+
