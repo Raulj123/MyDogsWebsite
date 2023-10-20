@@ -7,7 +7,7 @@ Made this just for fun. And to take a break from leetcode.
 </div>
 
 
-## Devlopment
+## Development
 Make sure you have Node.js:
 
 
