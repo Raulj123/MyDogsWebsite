@@ -110,7 +110,7 @@
   <div class="hero min-h-screen">
     <div class="hero-content flex-col lg:flex-row">
       <img
-        src="./maya/maya_jen.jpg"
+        src="./maya/maya_pawty.png"
         alt="maya"
         class="max-w-sm rounded-lg shadow-2xl"
       />
